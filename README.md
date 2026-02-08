@@ -1,7 +1,3 @@
-<h1 align="center" style="color: #FFFFFF;">alt account</h1>
-
----
-
 <p align="center">
   <a href="https://discord.com/users/1292931547929772135">
     <img src="https://lanyard.cnrad.dev/api/1292931547929772135" />
