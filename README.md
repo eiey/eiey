@@ -2,13 +2,13 @@
 
 ---
 
-### Languages:
-![Tools of the Trade](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5000&color=FFFFFF&width=400&lines=Python+JS+HTML+CSS+GO+C+Rust)
-
----
-
-### Currently Making:
-![A Multipurpose](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5000&color=FFFFFF&vCenter=true&width=400&lines=Nothing)
+<p align="center">
+  <a href="https://discord.com/users/1292931547929772135">
+    <img src="https://lanyard.cnrad.dev/api/1292931547929772135" />
+  </a>
+  <br>
+  Telegram: <a href="https://t.me/systemremote">https://t.me/systemremote</a>
+</p>
 
 ---
 
