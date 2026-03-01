@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://discord.com/users/1278403311032074412">
-    <img src="https://lanyard.cnrad.dev/api/1278403311032074412" />
-  </a>
-  <br>
-</p>
-
----
-
 ### GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=ykvb&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ykvb&theme=github_dark&hide_border=false)<br/>
